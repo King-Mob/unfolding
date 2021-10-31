@@ -1,7 +1,5 @@
 # Unfolding
 
-Put the text you want in the url as a parameter in base64 encoded.
+Put the text you want in the url as a parameter called t.
 
-e.g.
-
-hello is aGVsbG8= in base64 so the url is `index.html?t=aGVsbG8=`
+e.g. `index.html?t=hello` wil display hello
